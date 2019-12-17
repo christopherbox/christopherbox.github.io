@@ -30,7 +30,7 @@ twitter_username: boxxy27
 github_username:  christopherbox
 
 # Build settings
-theme: leap day
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
